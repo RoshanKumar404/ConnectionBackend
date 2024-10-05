@@ -1,0 +1,16 @@
+{
+  "name": "connectionbackend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "npm run start"
+  },
+  "author": "roshan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
